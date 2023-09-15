@@ -6,7 +6,7 @@
 	- Firewall
 	- Server 
 	- Client 
-- ![[Pasted image 20230903102004.png]]
+- ![[Attachments/Pasted image 20230903102004.png]]
 
 
 
